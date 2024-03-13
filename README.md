@@ -19,10 +19,10 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-📊 **This month I spent a lot of my time on** 
-
 ***
 
 <div align="center">
+
 ### Give some ❤️ by starring in some of my repositories!
+
 </div>
