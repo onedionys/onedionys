@@ -8,7 +8,6 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=onedionys&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%onedionys" alt="Visitor"></p>
 
-***
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width: 100%">
 <tr>
@@ -18,8 +17,6 @@
 </table>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-***
 
 <div align="center">
 
